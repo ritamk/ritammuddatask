@@ -11,4 +11,4 @@ An assignment/demo app.
 - Used shared preferences to persist essential user data, reducing read write costs.
 - Used toasts to display any errors that may occur.
 - Implemented a theming section that smoothly let's you change the overall feel of the app.
-- Used riverpod as the state management solution
+- Used riverpod as the state management solution.
