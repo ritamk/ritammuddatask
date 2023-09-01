@@ -1,16 +1,14 @@
 # ritammuddatask
 
-A new Flutter project.
+An assignment/demo app.
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Implemented email based authentication using Firebase Auth.
+- Users and their data are stored and persisted in Firestore.
+- Created an incomplete and complete tasks' list on the home screen.
+- Each task has certain properties such as title, description, due time, status, etc.
+- Used shared preferences to persist essential user data, reducing read write costs.
+- Used toasts to display any errors that may occur.
+- Implemented a theming section that smoothly let's you change the overall feel of the app.
+- Used riverpod as the state management solution
