@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "912269622668",
+    "project_id": "muddatask",
+    "storage_bucket": "muddatask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912269622668:android:29083db3839c31fec8aaa9",
+        "android_client_info": {
+          "package_name": "kon.ritam.ritammuddatask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912269622668-p9uqf4n3rg5b1aful2nj26v6k19a4lha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwnfdQUF5tn1tF2kUKJ63KiXLj7l7BpwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912269622668-p9uqf4n3rg5b1aful2nj26v6k19a4lha.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "912269622668-9u0oabtvb4ft662imasgmmq6uuithcc1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kon.ritam.ritammuddatask"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
